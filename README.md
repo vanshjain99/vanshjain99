@@ -11,6 +11,7 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
 
@@ -18,9 +19,6 @@
 I am a passionate beginner frontend developer with a keen interest in creating visually appealing and user-friendly websites. My journey into web development began with a curiosity about how websites work, which quickly grew into a full-fledged passion. I have honed my skills in HTML, CSS, and JavaScript, and I enjoy building responsive designs that look great on all devices.
 
 Currently, I'm focused on mastering React.js to build more dynamic and complex web applications. I also aim to contribute to open-source projects to gain real-world experience and collaborate with other developers to enhance my teamwork skills. I'm constantly learning and improving, driven by a desire to create seamless and engaging user experiences. Feel free to reach out to me for collaboration or just to say hi!  
-
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   
 
 <br/>  
