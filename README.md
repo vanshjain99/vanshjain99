@@ -98,7 +98,7 @@ Full Stack Developer • Building AI-powered Web Applications • Computer Scien
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="[https://x.com/vanshjain99](https://x.com/vanshjain99)">
+<a href="https://x.com/vanshjain99">
 <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
