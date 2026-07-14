@@ -41,3 +41,8 @@ Currently, I'm focused on mastering React.js to build more dynamic and complex w
 
 <br/>  
 
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
