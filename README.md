@@ -1,48 +1,113 @@
-## Hey 👋, I'm Vansh Jain!  
-  
+<h1 align="center">Hi 👋, I'm Vansh Jain</h1>
 
-<a href="https://github.com/vanshjain99" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<h3 align="center">
+Full Stack Developer • Building AI-powered Web Applications • Computer Science @ Bennett University
+</h3>
+
+<p align="center">
+<a href="https://github.com/vanshjain99">
+<img src="https://img.shields.io/github/followers/vanshjain99?style=for-the-badge&label=Followers"/>
 </a>
-<a href="https://twitter.com/vanshjain99" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="https://github.com/vanshjain99?tab=repositories">
+<img src="https://img.shields.io/github/stars/vanshjain99?style=for-the-badge&affiliations=OWNER&label=Stars"/>
 </a>
-<a href="https://linkedin.com/in/vanshjain99" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+</p>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/vanshjain99">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/vanshjain99">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:vanshjain1712@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+- 🎓 Final-year Computer Science student at **Bennett University**
+- 🚀 Creator of **QuickCal** — AI timetable → Google Calendar
+- 🏢 Building **Five Dimensions**, a real-estate opportunities platform
+- 🤖 Passionate about AI-powered productivity software
+- 🌱 Currently learning **Astro, React, FastAPI, Supabase, Docker & Cloudflare**
+- 💬 Ask me about **JavaScript, TypeScript, React, Astro, Python & FastAPI**
+- ⚡ Fun fact: I love turning everyday problems into software.
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,nodejs,python,fastapi,supabase,firebase,mysql,postgres,docker,git,github,linux,aws,vscode&perline=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vanshjain99&theme=github-dark-dimmed&hide_border=true&radius=12&area=true)](https://github.com/vanshjain99)
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=vanshjain99&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🚀 **[QuickCal](https://github.com/vanshjain99/QuickCal)** | Convert timetable images into Google Calendar events using AI |
+| 🏢 **[Five Dimensions](https://github.com/vanshjain99/five_dimensions)** | Modern platform for discovering real estate opportunities |
+| 📱 **[DoctorAppointmentApp](https://github.com/vanshjain99/DoctorAppointmentApp)** | Android appointment booking application built with Kotlin |
+| 💬 **[Endorsement App](https://github.com/vanshjain99/endorsement-app)** | Firebase-powered real-time endorsement platform |
+
+---
 
 
+# 📫 Connect With Me
 
-### Glad to see you here!  
-I am a passionate beginner frontend developer with a keen interest in creating visually appealing and user-friendly websites. My journey into web development began with a curiosity about how websites work, which quickly grew into a full-fledged passion. I have honed my skills in HTML, CSS, and JavaScript, and I enjoy building responsive designs that look great on all devices.
+<p align="center">
 
-Currently, I'm focused on mastering React.js to build more dynamic and complex web applications. I also aim to contribute to open-source projects to gain real-world experience and collaborate with other developers to enhance my teamwork skills. I'm constantly learning and improving, driven by a desire to create seamless and engaging user experiences. Feel free to reach out to me for collaboration or just to say hi!  
-  
+<a href="mailto:vanshjain1712@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-<br/>  
+<a href="https://linkedin.com/in/vanshjain99">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
+<a href="[https://x.com/vanshjain99](https://x.com/vanshjain99)">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-</div>  
+</p>
 
-<br/>  
+---
 
-## ⚡ Recent GitHub Activity
+<p align="center">
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
+</p>
