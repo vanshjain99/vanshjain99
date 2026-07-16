@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Vansh Jain</h1>
 
 <h3 align="center">
@@ -5,14 +7,17 @@ Full Stack Developer • Building AI-powered Web Applications • Computer Scien
 </h3>
 
 <p align="center">
-<a href="https://github.com/vanshjain99">
-<img src="https://img.shields.io/github/followers/vanshjain99?style=for-the-badge&label=Followers"/>
-</a>
-
-<a href="https://github.com/vanshjain99?tab=repositories">
-<img src="https://img.shields.io/github/stars/vanshjain99?style=for-the-badge&affiliations=OWNER&label=Stars"/>
-</a>
+  <a href="https://github.com/vanshjain99">
+    <img src="https://img.shields.io/github/followers/vanshjain99?style=for-the-badge&label=Followers"/>
+  </a>
+  
+  <a href="https://github.com/vanshjain99?tab=repositories">
+    <img src="https://img.shields.io/github/stars/vanshjain99?style=for-the-badge&affiliations=OWNER&label=Stars"/>
+    <img src="https://img.shields.io/badge/Public%20Repos-18-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Private%20Repos-14-blue?style=for-the-badge"/>
+  </a>
 </p>
+
 
 <p align="center">
 
@@ -20,11 +25,11 @@ Full Stack Developer • Building AI-powered Web Applications • Computer Scien
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/vanshjain99">
+<a href="https://x.com/vanshjain99">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="mailto:vanshjain1712@gmail.com">
+<a href="mailto:vanshjain1788@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
