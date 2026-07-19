@@ -13,7 +13,7 @@ Full Stack Developer • Building AI-powered Web Applications • Computer Scien
   
   <a href="https://github.com/vanshjain99?tab=repositories">
     <img src="https://img.shields.io/github/stars/vanshjain99?style=for-the-badge&affiliations=OWNER&label=Stars"/>
-    <img src="https://img.shields.io/badge/Public%20Repos-18-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Public%20Repos-19-blue?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Private%20Repos-14-blue?style=for-the-badge"/>
   </a>
 </p>
